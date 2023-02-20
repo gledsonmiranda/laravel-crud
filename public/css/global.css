@@ -1,0 +1,11 @@
+:root {
+  --bs-body-font-family: 'Roboto', sans-serif;
+}
+
+h1 {
+  font-size: 2rem;
+}
+
+main.container {
+  max-width: 1024px;
+}
